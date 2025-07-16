@@ -1,6 +1,9 @@
 DNA Fasta File Analysis – Genomics
 
 AUTHOR: Anwesha Sarkar
+
+
+
 🧬 DNA Sequence Analysis
 This repository contains a Python script for analyzing DNA sequences from FASTA files. The script identifies Open Reading Frames (ORFs) across reading frames and performs various sequence analyses, including repeat detection.
 
