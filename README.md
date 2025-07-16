@@ -16,7 +16,7 @@ Repeat Counting: Identifies the most frequent k-mers of specified lengths (e.g.,
 bash
 Copy
 Edit
-git clone https://github.com/Anwesha19-prog/dna-sequence-analysis.git
+git clone https://github.com/Anwesha19-prog/DNA_Fasta_file_analysis_genomics.git
 cd dna-sequence-analysis
 2. Install dependencies
 Make sure Python is installed, then install Biopython:
